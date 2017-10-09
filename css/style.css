@@ -61,11 +61,42 @@ textarea {
 	height: 70px;
     width: 70px;
 }
+.name-post-and-tags{
+	margin-left: 20px;
+	vertical-align: middle;
+	line-height: 30px;
+}
+.name-post{
+	font-size: 150%;
+	color: #76c7c0;
+}
+.post-and-tags > a{
+	color: #e8645a;
+}
+.post-and-tags > i{
+	color: #76c7c0;
+}
+/*.nav-pills > .active > a{
+	background-color: #62a29e !important;
+}*/
+
 .imgblog {
 	height: 600px;
     width: 800px;
     margin: 0; 
-
+    margin-bottom: 40px;
+    position: relative;
+}
+.btn1{
+	position: absolute;
+	top: 50%;
+	left: 10px;
+	z-index: 5;	
+}
+.btn2{
+	position: absolute;
+	top: 50%;
+	right: 10px;
 }
 .text {
 	margin-left: 10px;
