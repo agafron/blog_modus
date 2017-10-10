@@ -61,6 +61,13 @@ textarea {
 	height: 70px;
     width: 70px;
 }
+
+}
+.logo_nnm {
+	height: 70px;
+    width: 70px;
+}
+
 .name-post-and-tags{
 	margin-left: 20px;
 	vertical-align: middle;
@@ -100,4 +107,20 @@ textarea {
 }
 .text {
 	margin-left: 10px;
+}
+
+.odd_comment {
+    /*background-color: #fafafa;*/
+    margin: 30px auto;
+}
+.even_comment {
+    /*background-color: silver;*/
+    margin-left: 30; 
+}
+.commentator {
+	font-style: italic;
+	font-weight: bold; 
+}
+.comment {
+
 }
